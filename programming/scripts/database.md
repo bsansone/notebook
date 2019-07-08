@@ -1,5 +1,4 @@
-clear
-s mysql database and user in bash script
+Bash script to create mysql database and user
     
     #!/bin/bash
     # Bash script written by Saad Ismail - me@saadismail.net
