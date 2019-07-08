@@ -1,4 +1,4 @@
-# Commonly Used Themes and Extensions
+# Visual Studio Code
 
 ## Themes
 

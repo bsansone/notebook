@@ -1,5 +1,7 @@
 # Bash script to create mysql database and user
 
+Source: [useful-bash-scripts](https://github.com/saadismail/useful-bash-scripts/blob/master/db.sh)
+
     #!/bin/bash
     # Bash script written by Saad Ismail - me@saadismail.net
 
