@@ -1,5 +1,5 @@
-Bash script to create mysql database and user
-    
+# Bash script to create mysql database and user
+
     #!/bin/bash
     # Bash script written by Saad Ismail - me@saadismail.net
 
@@ -57,4 +57,3 @@ Bash script to create mysql database and user
         echo "You're good now :)"
         exit
     fi
-
